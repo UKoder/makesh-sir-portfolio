@@ -18,8 +18,8 @@ My professional journey at Urjanet (an Arcadia Enterprise) has been marked by de
 
 Deeply passionate about Generative AI and Machine Learning, I thrive on tackling complex engineering challenges and transforming data into actionable insights to solve real-world problems.`,
   email: "shreemakesh747@gmail.com",
-  profilePic: "/makesh-sir-portfolio/makesh.jpeg",
-  resumeLink: "/makesh-sir-portfolio/IT_Resume_Shree_Makesh_N.docx",
+  profilePic: "./makesh.jpeg",
+  resumeLink: "./IT_Resume_Shree_Makesh_N.docx",
   certificatesGDriveLink: "#",
 };
 
