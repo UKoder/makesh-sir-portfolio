@@ -1,0 +1,29 @@
+.blog__grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 24px;
+}
+
+.blog__card {
+  padding: 32px;
+  display: block;
+}
+
+.blog__card h3 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 10px;
+}
+
+.blog__card p {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+  line-height: 1.6;
+  margin-bottom: 12px;
+}
+
+.blog__card span {
+  font-size: 0.8rem;
+  color: var(--text-tertiary);
+}
